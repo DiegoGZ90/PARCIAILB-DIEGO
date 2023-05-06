@@ -1,0 +1,3 @@
+C:/Users/Diego Gonzalez/CLionProjects/PARCIAL2ARCHIVOSGONZALEZ/cmake-build-debug/CMakeFiles/PARCIAL2ARCHIVOSGONZALEZ.dir
+C:/Users/Diego Gonzalez/CLionProjects/PARCIAL2ARCHIVOSGONZALEZ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Diego Gonzalez/CLionProjects/PARCIAL2ARCHIVOSGONZALEZ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
